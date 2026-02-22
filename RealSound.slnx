@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Sohbet_Client_Arayuz/SohbetistemciArayuz.csproj" />
+  <Project Path="Sohbet_Sunucu/SohbetSunucu.exe.csproj" />
+</Solution>
